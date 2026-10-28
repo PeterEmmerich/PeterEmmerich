@@ -26,7 +26,7 @@ Estou começando minha jornada no desenvolvimento web, aprendendo na prática e 
 ## 📫 Contato
 
 - GitHub: [@PeterEmmerich](https://github.com/PeterEmmerich)
-- E-mail: _seu-email@exemplo.com_
+- E-mail: _ptresilva@gmail.com_
 - LinkedIn: _link do seu perfil_
 
 ---
