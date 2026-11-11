@@ -14,7 +14,7 @@ Estou começando minha jornada no desenvolvimento web, aprendendo na prática e 
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [A minha Cobra vai Fumar](https://github.com/PeterEmmerich/A-minha---Cobra-vai-Fumar) | Versão própria (fork) de um jogo da cobrinha inspirado no clássico Snake, com recursos extras para deixar a partida mais dinâmica. | HTML, CSS, JavaScript |
+| [A Cobra vai Fumar](https://github.com/PeterEmmerich/A-minha---Cobra-vai-Fumar) | Versão própria (fork) de um jogo da cobrinha inspirado no clássico Snake, com recursos extras para deixar a partida mais dinâmica. | HTML, CSS, JavaScript |
 | [Página HTML](https://github.com/PeterEmmerich/P-gina-html) | Página feita só com HTML para revisar e fixar o conteúdo estudado. | HTML |
 
 ## 🎯 Atualmente
@@ -27,7 +27,7 @@ Estou começando minha jornada no desenvolvimento web, aprendendo na prática e 
 
 - GitHub: [@PeterEmmerich](https://github.com/PeterEmmerich)
 - E-mail: _ptresilva@gmail.com_
-- LinkedIn: _link do seu perfil_
+- LinkedIn: _Ainda_não_informado_
 
 ---
 ⭐ Fique à vontade para explorar meus projetos!
